@@ -1,0 +1,4 @@
+start with a neural network for the image analayse part and use vision transformers alongside them with register tokens for higher performing model. make use of DINOV2, DEiT-II etc.
+take code llama model and have it suggest suitable similar descriptions of the above and pass them to step 3 to generate variations
+we will use emu to generate out new images from the received described prompts
+aliter: we can use something similar to photoshops generative fill to add objects to step3 output and give user option to do the same, we also need to implement a cloud storage of a user's data so as to incorporate changes made on his past prompts
